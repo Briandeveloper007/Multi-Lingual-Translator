@@ -406,7 +406,7 @@ Potential extensions include:
 
 # 👨‍💻 Author
 
-## Divakar M
+## Divakar M  | joker dhan pooleh
 
 **B.Tech CSE — Artificial Intelligence & Data Science**
 
