@@ -417,7 +417,11 @@ AI/ML • Generative AI • Python • NLP • Machine Learning
     <img src="https://img.shields.io/badge/GitHub-Divakar1326-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Briandeveloper007">
+    <img src="https://img.shields.io/badge/GitHub-Briandeveloper007-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 ---
 
 <p align="center">
